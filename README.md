@@ -1,3 +1,3 @@
-# Week 09
+# Week 09 - Complete
 
 Unsupervised Learning: PCA and Dimensionality Reduction
